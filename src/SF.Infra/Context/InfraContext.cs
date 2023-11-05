@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SF.Infra.Context
 {
-    internal class InfraContext
+    public class InfraContext
     {
     }
 }
